@@ -1,0 +1,1001 @@
+ID_Viagem;Hora_Início;Hora_Fim;Duração;Distância;Modo_Transporte;Velocidade_Média;Condição_Tráfego;Clima;Satisfação_Usuário
+1;20:07;;;;bicicleta;;leve;ensolarado;2
+2;23:06;23:40;34.97;10.09;carro;17.32;pesado;nublado;1
+3;00:05;00:33;28.62;8.95;carro;18.77;pesado;ensolarado;5
+4;13:14;13:41;27.66;13.07;carro;28.35;leve;chuvoso;4
+5;10:17;10:44;27.66;7.41;bicicleta;16.08;leve;ensolarado;4
+6;03:22;04:07;45.79;22.43;carro;29.39;pesado;nublado;5
+7;03:59;04:36;37.67;9.56;bicicleta;15.23;pesado;ensolarado;1
+8;01:42;02:07;25.31;10.71;carro;25.38;leve;ensolarado;4
+9;08:29;09:04;35.43;14.97;bicicleta;25.35;moderado;ensolarado;3
+10;22:59;23:31;32.42;11.32;ônibus;20.95;pesado;chuvoso;2
+11;05:29;05:39;10.87;4.21;ônibus;23.23;pesado;nublado;1
+12;07:52;;;;bicicleta;;moderado;nublado;1
+13;06:58;07:17;19.87;7.69;bicicleta;23.22;leve;chuvoso;4
+14;12:56;13:29;33.14;12.13;bicicleta;21.96;leve;ensolarado;5
+15;17:16;18:00;44.66;18.61;a pé;25.01;moderado;ensolarado;2
+16;16:31;16:58;27.74;72.94;carro;103.66;leve;chuvoso;2
+17;21:27;21:45;18.49;8.68;a pé;28.17;pesado;nublado;5
+18;00:43;01:16;33.76;8.66;bicicleta;15.39;pesado;nublado;1
+19;09:27;09:50;23.99;51.29;bicicleta;99.93;pesado;ensolarado;5
+20;03:55;04:22;27.08;9.06;ônibus;20.06;leve;nublado;2
+21;17:49;18:27;38.23;14.57;bicicleta;22.87;moderado;ensolarado;1
+22;11:56;12:13;17.79;5.85;ônibus;19.74;leve;ensolarado;5
+23;02:05;02:21;16.72;4.24;ônibus;15.23;leve;chuvoso;4
+24;17:10;17:41;31.97;9.00;a pé;16.90;leve;chuvoso;2
+25;22:19;22:56;37.38;17.17;bicicleta;27.56;moderado;chuvoso;4
+26;03:15;03:46;31.71;13.26;ônibus;25.08;pesado;ensolarado;1
+27;02:45;03:13;28.84;10.39;carro;21.60;moderado;ensolarado;5
+28;07:17;07:43;26.99;10.61;ônibus;23.60;pesado;chuvoso;5
+29;15:15;15:40;25.39;9.91;ônibus;23.42;leve;ensolarado;4
+30;11:27;12:07;40.57;13.15;carro;19.45;pesado;chuvoso;1
+31;01:25;01:58;33.24;15.47;carro;27.92;leve;ensolarado;2
+32;17:28;17:54;26.15;6.58;a pé;15.10;leve;ensolarado;4
+33;17:06;17:29;23.23;11.55;carro;29.84;leve;ensolarado;2
+34;13:31;14:07;36.12;9.95;carro;16.52;leve;nublado;1
+35;12:16;12:56;40.31;11.38;bicicleta;16.94;moderado;chuvoso;5
+36;21:45;22:24;39.31;18.30;ônibus;27.93;leve;chuvoso;5
+37;01:47;02:08;21.61;5.80;a pé;16.10;pesado;chuvoso;2
+38;01:32;01:58;26.91;8.29;carro;18.48;pesado;ensolarado;4
+39;03:56;04:21;25.21;9.61;carro;22.88;pesado;ensolarado;4
+40;21:37;22:05;28.14;10.62;bicicleta;22.64;leve;chuvoso;3
+41;07:16;07:54;38.13;10.10;bicicleta;15.90;moderado;nublado;1
+42;00:29;01:12;43.56;14.79;carro;20.38;leve;chuvoso;2
+43;16:16;16:49;33.62;9.55;carro;17.04;leve;nublado;3
+44;05:28;05:51;23.55;7.54;carro;19.22;pesado;chuvoso;3
+45;21:06;21:35;29.64;9.73;carro;19.70;leve;chuvoso;5
+46;04:17;05:02;45.65;15.99;bicicleta;21.02;leve;chuvoso;3
+47;16:31;17:01;30.87;11.74;carro;22.82;leve;chuvoso;4
+48;08:02;;;;ônibus;;pesado;nublado;2
+49;23:28;23:55;27.01;8.95;carro;19.89;leve;ensolarado;2
+50;17:02;17:29;27.80;9.86;ônibus;21.27;moderado;ensolarado;1
+51;09:23;09:56;33.57;9.56;carro;17.09;moderado;ensolarado;2
+52;21:06;21:27;21.92;5.68;a pé;15.55;pesado;chuvoso;2
+53;07:55;08:19;24.98;6.91;ônibus;16.59;moderado;ensolarado;2
+54;23:59;00:38;39.15;10.85;ônibus;16.63;moderado;ensolarado;1
+55;12:55;;;;a pé;;leve;ensolarado;4
+56;11:19;11:52;33.29;14.03;ônibus;25.28;leve;chuvoso;2
+57;12:21;12:51;30.97;8.57;bicicleta;16.60;moderado;chuvoso;5
+58;12:43;13:22;39.69;10.47;carro;15.82;leve;nublado;2
+59;18:16;;;;a pé;;moderado;chuvoso;3
+60;13:38;14:00;22.98;9.36;ônibus;24.43;moderado;ensolarado;4
+61;00:33;00:59;26.72;9.36;ônibus;21.02;moderado;nublado;1
+62;21:58;22:30;32.96;16.37;carro;29.79;pesado;nublado;5
+63;09:42;10:14;32.61;10.79;bicicleta;19.86;pesado;ensolarado;2
+64;13:42;13:57;15.85;7.08;ônibus;26.79;pesado;chuvoso;3
+65;12:35;13:00;25.79;9.64;ônibus;22.43;moderado;chuvoso;5
+66;20:20;20:48;28.39;9.35;ônibus;19.75;pesado;nublado;2
+67;21:05;21:39;34.04;9.99;bicicleta;17.62;leve;ensolarado;3
+68;07:51;08:23;32.58;51.95;ônibus;114.44;moderado;chuvoso;1
+69;14:26;14:55;29.26;11.24;a pé;23.06;moderado;nublado;2
+70;04:41;05:11;30.60;14.55;carro;28.53;moderado;ensolarado;2
+71;22:33;23:27;54.63;21.36;carro;23.46;moderado;ensolarado;4
+72;21:33;22:01;28.08;12.26;a pé;26.20;pesado;chuvoso;5
+73;13:53;14:26;33.02;11.08;ônibus;20.14;pesado;nublado;4
+74;08:48;09:29;41.43;16.74;a pé;24.24;pesado;ensolarado;3
+75;14:04;14:41;37.52;10.85;bicicleta;17.36;moderado;chuvoso;1
+76;04:09;04:53;44.03;13.48;ônibus;18.37;leve;nublado;4
+77;10:34;10:49;15.98;5.20;a pé;19.53;moderado;chuvoso;1
+78;18:24;18:44;20.09;9.65;bicicleta;28.82;moderado;nublado;5
+79;23:47;00:11;24.34;7.65;ônibus;18.86;moderado;ensolarado;3
+80;13:31;;;;bicicleta;;pesado;chuvoso;4
+81;23:10;23:24;14.49;4.40;carro;18.24;moderado;chuvoso;5
+82;21:01;21:31;30.69;13.06;a pé;25.55;leve;ensolarado;3
+83;12:20;12:40;20.81;5.37;a pé;15.49;moderado;nublado;3
+84;02:30;;;;carro;;moderado;ensolarado;1
+85;20:02;20:47;45.50;20.00;ônibus;26.37;leve;chuvoso;2
+86;07:08;07:30;22.17;5.76;ônibus;15.59;moderado;chuvoso;3
+87;11:10;11:36;26.78;7.13;carro;15.98;leve;nublado;1
+88;18:01;18:39;38.14;10.49;a pé;16.51;moderado;chuvoso;2
+89;02:37;02:54;17.69;5.69;carro;19.29;pesado;nublado;5
+90;03:50;04:03;13.93;6.37;bicicleta;27.44;pesado;nublado;3
+91;02:32;03:03;31.85;79.75;a pé;129.12;moderado;ensolarado;4
+92;11:40;11:57;17.63;5.11;ônibus;17.38;moderado;ensolarado;5
+93;20:17;20:33;16.80;4.43;a pé;15.81;moderado;nublado;5
+94;08:20;08:52;32.50;9.90;carro;18.27;moderado;nublado;2
+95;14:36;15:09;33.46;15.43;carro;27.67;moderado;nublado;2
+96;15:13;15:45;32.93;16.38;bicicleta;29.85;pesado;chuvoso;3
+97;17:00;17:22;22.86;9.85;ônibus;25.84;pesado;nublado;4
+98;17:48;18:36;48.66;14.73;a pé;18.16;moderado;ensolarado;1
+99;09:14;09:48;34.74;14.19;bicicleta;24.50;moderado;chuvoso;5
+100;11:27;11:47;20.25;7.64;bicicleta;22.63;pesado;nublado;3
+101;09:16;09:53;37.87;10.84;bicicleta;17.18;leve;chuvoso;5
+102;22:11;22:50;39.63;11.96;bicicleta;18.10;pesado;chuvoso;5
+103;19:18;19:52;34.13;10.88;bicicleta;19.13;leve;nublado;2
+104;09:00;09:27;27.55;10.89;carro;23.71;leve;chuvoso;3
+105;22:08;22:30;22.46;9.03;carro;24.12;leve;chuvoso;3
+106;15:30;15:59;29.23;7.72;carro;15.86;moderado;nublado;1
+107;02:25;02:58;33.41;10.24;carro;18.39;leve;ensolarado;5
+108;09:05;09:35;30.13;9.55;a pé;19.02;pesado;chuvoso;5
+109;07:49;08:33;44.54;14.92;a pé;20.10;moderado;chuvoso;4
+110;09:36;10:12;36.26;14.15;carro;23.42;leve;chuvoso;2
+111;08:42;09:03;21.43;10.46;carro;29.29;leve;ensolarado;4
+112;14:44;15:03;19.29;4.97;ônibus;15.46;moderado;chuvoso;3
+113;22:55;23:29;34.82;8.91;bicicleta;15.35;pesado;chuvoso;2
+114;13:07;13:34;27.77;13.67;bicicleta;29.54;leve;ensolarado;1
+115;05:50;06:27;37.14;9.63;bicicleta;15.56;moderado;ensolarado;4
+116;22:19;22:53;34.73;8.84;a pé;15.28;moderado;ensolarado;5
+117;01:56;02:25;29.27;7.90;bicicleta;16.19;leve;ensolarado;2
+118;21:53;22:14;21.53;5.82;carro;16.21;pesado;nublado;5
+119;01:48;02:02;14.85;5.64;a pé;22.78;moderado;ensolarado;5
+120;13:40;14:12;32.14;8.30;a pé;15.49;moderado;nublado;3
+121;10:42;10:59;17.54;5.17;a pé;17.69;pesado;nublado;3
+122;21:25;21:46;21.16;6.55;a pé;18.58;leve;nublado;3
+123;10:07;10:38;31.54;7.92;carro;15.07;pesado;chuvoso;4
+124;13:03;13:33;30.58;8.14;a pé;15.98;pesado;nublado;1
+125;06:17;06:35;18.57;5.33;a pé;17.23;pesado;nublado;1
+126;00:40;01:20;40.83;15.02;ônibus;22.07;moderado;chuvoso;1
+127;17:26;18:06;40.54;15.67;carro;23.19;moderado;ensolarado;2
+128;15:59;16:34;35.15;9.41;bicicleta;16.07;moderado;nublado;4
+129;07:29;08:04;35.14;9.18;ônibus;15.68;leve;nublado;4
+130;10:59;11:34;35.15;9.77;carro;16.68;moderado;chuvoso;3
+131;18:37;19:45;68.53;20.77;ônibus;18.18;moderado;chuvoso;4
+132;11:21;12:00;39.54;10.46;a pé;15.87;moderado;ensolarado;2
+133;18:24;19:00;36.51;13.65;carro;22.42;moderado;chuvoso;4
+134;22:58;23:20;22.27;7.06;ônibus;19.01;moderado;ensolarado;2
+135;16:37;17:04;27.63;13.34;a pé;28.96;leve;chuvoso;4
+136;00:46;01:39;53.15;20.65;ônibus;23.32;leve;nublado;3
+137;10:39;10:50;11.33;3.56;bicicleta;18.86;pesado;chuvoso;4
+138;10:40;11:05;25.28;11.22;carro;26.62;pesado;ensolarado;2
+139;20:43;21:23;40.89;13.43;carro;19.71;moderado;ensolarado;1
+140;14:10;14:32;22.85;7.04;carro;18.49;moderado;ensolarado;3
+141;11:23;11:59;36.80;16.95;a pé;27.64;pesado;chuvoso;2
+142;05:11;05:41;30.46;9.88;ônibus;19.47;moderado;chuvoso;2
+143;07:29;07:52;23.48;7.17;carro;18.32;moderado;nublado;5
+144;05:04;05:13;9.75;2.72;bicicleta;16.71;pesado;nublado;3
+145;14:54;15:25;31.86;12.54;a pé;23.61;leve;ensolarado;4
+146;18:22;18:44;22.07;10.76;bicicleta;29.26;leve;chuvoso;4
+147;08:00;08:28;28.85;7.35;carro;15.29;pesado;chuvoso;4
+148;09:49;10:24;35.05;12.44;bicicleta;21.29;leve;chuvoso;2
+149;19:16;19:54;38.66;16.47;ônibus;25.57;pesado;ensolarado;1
+150;09:50;10:15;25.25;8.15;ônibus;19.36;leve;nublado;3
+151;23:26;23:49;23.47;6.84;bicicleta;17.50;pesado;chuvoso;3
+152;05:16;05:33;17.39;4.45;bicicleta;15.35;pesado;nublado;1
+153;14:04;14:43;39.18;11.27;a pé;17.26;pesado;nublado;1
+154;12:00;12:51;51.22;18.04;bicicleta;21.13;pesado;chuvoso;3
+155;18:24;19:04;40.32;16.16;carro;24.04;pesado;ensolarado;4
+156;00:39;01:21;42.67;21.03;ônibus;29.57;pesado;ensolarado;4
+157;22:19;22:41;22.92;10.27;carro;26.88;leve;nublado;4
+158;03:06;03:40;34.44;11.68;a pé;20.35;moderado;nublado;5
+159;13:37;14:14;37.75;17.19;a pé;27.33;pesado;ensolarado;4
+160;19:26;19:27;1.00;0.43;bicicleta;25.57;leve;nublado;4
+161;07:54;08:13;19.76;6.89;bicicleta;20.92;pesado;chuvoso;3
+162;01:25;02:11;46.32;14.17;a pé;18.35;leve;chuvoso;2
+163;20:40;20:55;15.70;51.61;bicicleta;233.31;leve;ensolarado;5
+164;06:04;06:45;41.63;12.55;ônibus;18.09;leve;nublado;2
+165;19:00;19:30;30.10;12.94;ônibus;25.80;pesado;nublado;2
+166;03:42;04:13;31.99;15.58;bicicleta;29.23;leve;chuvoso;3
+167;00:11;00:34;24.00;7.57;a pé;18.92;pesado;ensolarado;1
+168;15:28;15:59;31.14;11.21;carro;21.61;moderado;chuvoso;2
+169;19:02;19:38;36.62;11.14;bicicleta;18.26;moderado;chuvoso;1
+170;01:30;02:21;51.33;13.22;carro;15.45;moderado;chuvoso;4
+171;02:57;03:07;10.48;3.78;carro;21.64;leve;nublado;5
+172;20:37;21:09;32.81;15.31;bicicleta;28.01;moderado;chuvoso;5
+173;13:06;13:29;23.77;9.01;ônibus;22.74;moderado;nublado;2
+174;13:21;13:45;24.11;10.78;carro;26.83;moderado;nublado;3
+175;21:16;21:54;38.50;11.34;a pé;17.68;leve;ensolarado;1
+176;02:27;03:05;39.00;11.24;ônibus;17.29;pesado;ensolarado;5
+177;17:35;18:08;33.07;9.17;bicicleta;16.63;pesado;nublado;1
+178;09:38;09:59;21.71;6.20;ônibus;17.14;leve;chuvoso;4
+179;07:54;08:18;24.40;6.75;bicicleta;16.60;leve;nublado;5
+180;07:51;08:20;29.79;10.86;carro;21.87;pesado;chuvoso;3
+181;00:11;00:42;31.17;8.77;bicicleta;16.89;moderado;ensolarado;2
+182;04:36;05:11;35.47;9.54;carro;16.14;leve;chuvoso;5
+183;06:24;06:51;27.98;9.79;bicicleta;20.99;moderado;chuvoso;3
+184;18:38;19:16;38.25;17.34;ônibus;27.20;pesado;ensolarado;1
+185;08:28;09:06;38.14;10.02;a pé;15.77;moderado;nublado;2
+186;16:07;16:50;43.05;16.31;a pé;22.73;pesado;chuvoso;3
+187;01:14;01:44;30.21;7.97;carro;15.83;leve;nublado;2
+188;04:48;05:21;33.24;8.52;carro;15.38;moderado;chuvoso;4
+189;05:08;05:36;28.70;9.12;bicicleta;19.07;leve;nublado;1
+190;13:01;13:22;21.82;8.44;bicicleta;23.20;pesado;nublado;5
+191;12:45;13:35;50.92;19.16;a pé;22.58;leve;nublado;2
+192;19:29;20:10;41.58;11.60;carro;16.75;moderado;ensolarado;2
+193;13:37;14:14;37.92;10.59;bicicleta;16.76;pesado;nublado;2
+194;10:49;11:18;29.88;14.13;carro;28.37;pesado;chuvoso;2
+195;11:22;11:43;21.03;6.79;ônibus;19.36;leve;ensolarado;2
+196;08:12;08:51;39.75;14.71;carro;22.21;leve;chuvoso;4
+197;14:48;15:16;28.53;12.77;bicicleta;26.86;pesado;nublado;2
+198;14:04;14:38;34.13;10.55;bicicleta;18.54;pesado;ensolarado;3
+199;16:04;16:28;24.36;11.06;carro;27.24;moderado;nublado;1
+200;20:55;21:27;32.45;15.12;a pé;27.97;moderado;chuvoso;5
+201;23:57;;;;ônibus;;moderado;chuvoso;4
+202;16:09;16:33;24.93;6.84;bicicleta;16.47;pesado;ensolarado;5
+203;20:11;;;;a pé;;moderado;chuvoso;5
+204;19:10;19:35;25.29;11.66;a pé;27.65;moderado;nublado;5
+205;01:50;02:22;32.32;8.13;bicicleta;15.10;leve;chuvoso;4
+206;09:16;09:31;15.52;4.28;ônibus;16.55;moderado;ensolarado;5
+207;21:09;21:24;15.93;4.09;a pé;15.41;leve;chuvoso;1
+208;09:35;09:57;22.82;6.42;ônibus;16.88;pesado;chuvoso;5
+209;02:41;03:08;27.87;8.94;carro;19.25;moderado;nublado;2
+210;06:21;06:59;38.58;17.36;ônibus;27.00;leve;ensolarado;1
+211;09:54;10:22;28.40;9.51;carro;20.10;pesado;nublado;5
+212;04:38;05:07;29.81;14.11;ônibus;28.40;pesado;nublado;1
+213;13:23;13:50;27.11;12.12;a pé;26.81;pesado;nublado;4
+214;07:34;08:07;33.23;9.51;a pé;17.18;leve;nublado;5
+215;14:29;14:50;21.73;6.86;a pé;18.95;leve;ensolarado;5
+216;04:55;05:23;28.91;11.24;bicicleta;23.33;pesado;ensolarado;5
+217;03:18;03:52;34.02;9.10;a pé;16.05;pesado;ensolarado;4
+218;02:58;03:30;32.24;15.01;bicicleta;27.94;leve;nublado;1
+219;12:32;13:02;30.13;9.69;carro;19.31;moderado;ensolarado;1
+220;10:59;11:29;30.25;9.28;bicicleta;18.41;leve;ensolarado;1
+221;09:58;10:32;34.98;10.31;ônibus;17.69;pesado;nublado;4
+222;19:00;19:51;51.53;154.59;ônibus;98.98;leve;chuvoso;5
+223;16:27;16:49;22.33;8.71;bicicleta;23.42;leve;ensolarado;2
+224;13:40;14:31;51.90;20.31;carro;23.49;moderado;chuvoso;5
+225;00:40;01:01;21.92;9.22;ônibus;25.25;moderado;nublado;1
+226;19:22;19:30;8.76;2.77;carro;18.94;pesado;nublado;1
+227;16:34;16:58;24.74;11.48;carro;27.84;moderado;nublado;1
+228;20:24;20:57;33.42;12.76;carro;22.91;moderado;ensolarado;3
+229;07:46;08:34;48.76;13.44;bicicleta;16.54;leve;ensolarado;3
+230;17:21;17:42;21.02;5.50;a pé;15.70;pesado;nublado;2
+231;04:04;04:38;34.92;9.58;carro;16.46;moderado;ensolarado;1
+232;06:56;;;;bicicleta;;pesado;nublado;5
+233;15:16;;;;ônibus;;moderado;nublado;1
+234;20:21;20:37;16.80;4.35;a pé;15.52;moderado;chuvoso;4
+235;12:21;13:09;48.31;12.95;a pé;16.08;moderado;chuvoso;3
+236;02:46;03:27;41.79;10.52;ônibus;15.10;pesado;nublado;3
+237;03:05;03:30;25.31;11.00;a pé;26.08;pesado;chuvoso;4
+238;05:44;05:56;12.87;3.27;bicicleta;15.23;pesado;nublado;3
+239;20:50;21:33;43.54;11.82;a pé;16.29;moderado;chuvoso;2
+240;00:09;00:37;28.85;10.20;a pé;21.20;leve;ensolarado;1
+241;07:49;08:31;42.38;16.64;carro;23.56;pesado;ensolarado;4
+242;11:23;11:53;30.05;8.49;ônibus;16.96;pesado;nublado;4
+243;10:41;11:11;30.47;7.83;carro;15.43;pesado;ensolarado;4
+244;16:24;16:49;25.50;8.79;bicicleta;20.68;pesado;nublado;2
+245;19:18;19:54;36.23;16.04;ônibus;26.57;leve;ensolarado;1
+246;14:11;14:42;31.20;12.70;carro;24.42;pesado;nublado;3
+247;22:04;22:39;35.14;10.51;bicicleta;17.95;leve;chuvoso;2
+248;11:32;11:46;14.66;6.58;ônibus;26.94;leve;nublado;1
+249;11:35;12:17;42.78;12.80;ônibus;17.95;pesado;ensolarado;1
+250;09:25;10:10;45.51;14.97;a pé;19.73;moderado;chuvoso;1
+251;04:20;04:51;31.16;8.41;bicicleta;16.20;leve;chuvoso;5
+252;05:49;06:39;50.61;13.48;carro;15.99;leve;chuvoso;2
+253;09:10;09:57;47.55;16.94;ônibus;21.38;moderado;chuvoso;3
+254;02:16;02:52;36.45;10.70;bicicleta;17.60;leve;chuvoso;3
+255;19:34;20:17;43.69;18.01;ônibus;24.73;leve;chuvoso;5
+256;23:57;00:37;40.58;14.58;carro;21.55;leve;ensolarado;1
+257;20:49;21:01;12.41;4.32;a pé;20.87;pesado;chuvoso;1
+258;15:56;16:23;27.31;9.02;bicicleta;19.82;moderado;ensolarado;4
+259;09:29;10:06;37.18;10.42;a pé;16.82;moderado;nublado;4
+260;06:21;07:07;46.29;12.43;bicicleta;16.11;pesado;nublado;4
+261;04:48;05:04;16.20;4.15;bicicleta;15.39;leve;nublado;1
+262;08:28;08:40;12.97;4.44;bicicleta;20.56;moderado;chuvoso;4
+263;07:55;08:24;29.44;7.44;bicicleta;15.15;leve;ensolarado;4
+264;16:29;16:38;9.33;2.85;carro;18.37;leve;nublado;5
+265;14:15;14:44;29.11;11.74;carro;24.19;moderado;nublado;5
+266;20:43;21:16;33.67;14.24;carro;25.38;moderado;ensolarado;3
+267;23:23;23:43;20.60;7.65;a pé;22.29;leve;chuvoso;5
+268;06:23;06:52;29.37;8.81;a pé;17.99;pesado;nublado;5
+269;21:39;22:18;39.55;16.87;a pé;25.59;moderado;nublado;5
+270;11:48;12:12;24.70;10.49;a pé;25.49;pesado;ensolarado;1
+271;01:08;01:30;22.07;10.14;a pé;27.56;leve;chuvoso;5
+272;04:20;04:48;28.93;11.99;a pé;24.87;pesado;chuvoso;3
+273;18:21;18:40;19.65;7.20;a pé;21.99;pesado;chuvoso;3
+274;15:52;;;;bicicleta;;pesado;ensolarado;4
+275;18:19;19:08;49.65;23.88;carro;28.87;pesado;nublado;3
+276;20:50;21:20;30.35;8.43;ônibus;16.67;pesado;ensolarado;5
+277;15:10;15:33;23.00;6.14;a pé;16.01;leve;chuvoso;2
+278;01:36;02:08;32.14;8.37;carro;15.62;moderado;nublado;4
+279;04:26;04:54;28.88;7.99;a pé;16.61;pesado;chuvoso;1
+280;22:08;22:35;27.79;7.95;a pé;17.16;pesado;nublado;3
+281;05:29;05:53;24.69;9.01;bicicleta;21.89;pesado;chuvoso;3
+282;19:30;19:54;24.24;8.16;bicicleta;20.21;leve;nublado;3
+283;22:13;22:27;14.85;5.08;a pé;20.51;moderado;chuvoso;3
+284;09:07;09:50;43.67;12.49;a pé;17.17;moderado;ensolarado;3
+285;01:18;01:53;35.77;11.83;a pé;19.85;pesado;nublado;4
+286;06:12;06:45;33.11;10.81;bicicleta;19.58;leve;ensolarado;5
+287;23:37;00:05;28.72;9.37;ônibus;19.57;pesado;ensolarado;1
+288;03:26;03:46;20.44;8.23;ônibus;24.15;leve;chuvoso;2
+289;13:41;14:03;22.44;11.00;a pé;29.41;pesado;ensolarado;3
+290;10:18;10:33;15.78;5.97;carro;22.69;pesado;chuvoso;2
+291;17:47;18:10;23.53;10.51;ônibus;26.79;moderado;ensolarado;1
+292;12:50;13:09;19.18;5.07;bicicleta;15.87;leve;ensolarado;3
+293;18:38;19:24;46.87;13.10;bicicleta;16.77;moderado;chuvoso;5
+294;16:31;17:09;38.82;12.95;a pé;20.02;moderado;ensolarado;1
+295;10:10;10:40;30.77;9.70;ônibus;18.91;leve;chuvoso;3
+296;09:36;09:57;21.39;6.13;a pé;17.19;moderado;chuvoso;3
+297;02:25;02:44;19.63;7.64;ônibus;23.37;moderado;nublado;2
+298;00:16;00:44;28.10;10.31;bicicleta;22.01;moderado;nublado;5
+299;23:36;;;;bicicleta;;pesado;ensolarado;1
+300;21:07;21:46;39.26;14.48;bicicleta;22.12;pesado;ensolarado;3
+301;11:39;12:28;49.09;12.36;a pé;15.10;leve;nublado;5
+302;11:26;11:42;16.01;7.27;ônibus;27.23;leve;chuvoso;5
+303;02:33;03:08;35.63;15.45;carro;26.02;pesado;ensolarado;1
+304;17:57;18:20;23.49;9.90;ônibus;25.28;leve;nublado;5
+305;14:07;14:32;25.13;9.78;a pé;23.34;leve;chuvoso;4
+306;01:29;01:59;30.49;10.81;carro;21.27;pesado;nublado;3
+307;23:01;23:22;21.69;5.47;ônibus;15.13;pesado;ensolarado;1
+308;13:22;13:49;27.61;7.01;carro;15.23;leve;nublado;1
+309;09:26;09:46;20.92;5.61;a pé;16.08;moderado;nublado;4
+310;12:24;12:48;24.23;10.35;ônibus;25.62;pesado;nublado;1
+311;05:34;06:11;37.55;11.25;ônibus;17.98;leve;ensolarado;3
+312;14:43;15:13;30.99;9.86;a pé;19.09;leve;ensolarado;4
+313;11:09;11:46;37.51;14.65;carro;23.44;leve;chuvoso;4
+314;19:49;20:12;23.37;8.83;ônibus;22.66;leve;ensolarado;1
+315;19:02;19:37;35.71;12.52;carro;21.05;leve;chuvoso;1
+316;12:28;12:41;13.72;6.16;carro;26.91;leve;chuvoso;3
+317;07:52;08:22;30.48;9.46;bicicleta;18.63;leve;nublado;2
+318;21:33;22:09;36.39;15.76;carro;25.99;pesado;chuvoso;2
+319;20:43;20:56;13.38;4.52;bicicleta;20.25;pesado;chuvoso;4
+320;16:20;16:43;23.48;8.78;bicicleta;22.44;moderado;ensolarado;5
+321;15:15;15:45;30.47;13.43;ônibus;26.45;moderado;ensolarado;5
+322;13:26;14:06;40.06;15.97;ônibus;23.91;moderado;ensolarado;3
+323;20:05;20:29;24.23;7.21;carro;17.84;pesado;chuvoso;2
+324;01:17;01:52;35.30;11.99;carro;20.39;leve;ensolarado;5
+325;23:42;00:26;44.42;15.73;bicicleta;21.25;moderado;ensolarado;2
+326;06:47;07:22;35.77;9.77;a pé;16.39;leve;chuvoso;5
+327;22:13;22:40;27.97;7.12;bicicleta;15.27;moderado;nublado;4
+328;17:41;18:14;33.71;8.70;a pé;15.48;moderado;ensolarado;4
+329;10:58;11:21;23.96;10.14;carro;25.40;pesado;ensolarado;2
+330;00:16;00:46;30.87;9.80;a pé;19.05;moderado;ensolarado;2
+331;10:14;10:42;28.44;7.72;a pé;16.29;pesado;chuvoso;3
+332;08:48;09:21;33.38;13.89;a pé;24.97;moderado;ensolarado;3
+333;05:08;05:33;25.88;11.12;carro;25.78;pesado;ensolarado;1
+334;21:03;21:36;33.94;10.19;ônibus;18.02;leve;chuvoso;2
+335;00:13;00:38;25.79;8.47;a pé;19.70;pesado;nublado;1
+336;00:34;01:12;38.71;126.26;bicicleta;155.03;pesado;nublado;1
+337;16:52;17:18;26.74;9.71;ônibus;21.79;leve;ensolarado;5
+338;04:15;04:26;11.29;3.23;bicicleta;17.17;moderado;nublado;1
+339;11:25;11:51;26.48;8.81;ônibus;19.96;moderado;chuvoso;1
+340;20:54;21:27;33.27;92.77;a pé;206.64;moderado;nublado;5
+341;15:03;15:30;27.81;8.56;carro;18.47;moderado;nublado;3
+342;18:54;19:09;15.21;6.68;carro;26.33;leve;ensolarado;5
+343;15:17;;;;carro;;pesado;nublado;5
+344;18:42;;;;bicicleta;;leve;ensolarado;5
+345;04:48;05:29;41.44;11.55;carro;16.72;moderado;ensolarado;5
+346;07:36;08:12;36.33;9.59;bicicleta;15.84;moderado;chuvoso;2
+347;22:46;23:38;52.71;14.73;bicicleta;16.77;leve;ensolarado;4
+348;07:53;08:18;25.41;10.17;a pé;24.03;moderado;ensolarado;3
+349;14:31;14:52;21.50;6.16;a pé;17.20;moderado;ensolarado;5
+350;21:24;21:54;30.72;8.71;ônibus;17.02;pesado;ensolarado;1
+351;08:09;08:34;25.22;6.72;ônibus;15.98;pesado;nublado;3
+352;11:06;11:46;40.38;18.18;a pé;27.01;moderado;nublado;1
+353;04:05;04:29;24.90;6.74;a pé;16.25;leve;ensolarado;1
+354;11:35;12:02;27.30;7.60;bicicleta;16.69;moderado;ensolarado;3
+355;13:24;13:44;20.21;8.79;ônibus;26.09;pesado;chuvoso;2
+356;21:24;22:01;37.57;10.92;bicicleta;17.44;moderado;ensolarado;1
+357;05:27;05:47;20.78;6.33;carro;18.28;moderado;nublado;2
+358;23:40;00:14;34.13;13.63;a pé;23.97;leve;ensolarado;3
+359;00:25;01:13;48.77;18.12;bicicleta;22.29;moderado;nublado;4
+360;20:38;20:50;12.21;4.18;ônibus;20.52;moderado;nublado;2
+361;12:20;13:04;44.96;11.54;a pé;15.41;pesado;ensolarado;3
+362;12:17;12:49;32.80;10.89;carro;19.92;pesado;ensolarado;5
+363;17:11;17:29;18.75;5.82;a pé;18.62;pesado;ensolarado;4
+364;09:53;10:24;31.09;9.16;a pé;17.68;pesado;nublado;2
+365;20:19;20:56;37.26;9.69;a pé;15.60;moderado;ensolarado;4
+366;19:30;19:52;22.10;7.01;a pé;19.03;pesado;ensolarado;3
+367;22:57;23:31;34.71;10.80;carro;18.67;leve;ensolarado;3
+368;05:41;06:26;45.93;11.87;a pé;15.51;moderado;nublado;1
+369;00:06;00:30;24.89;6.46;ônibus;15.58;moderado;nublado;4
+370;14:49;15:09;20.10;5.06;ônibus;15.11;moderado;ensolarado;4
+371;03:18;03:46;28.74;7.82;carro;16.31;pesado;ensolarado;3
+372;09:21;09:51;30.56;9.60;a pé;18.85;moderado;nublado;1
+373;14:46;15:26;40.94;14.63;bicicleta;21.44;leve;chuvoso;1
+374;00:54;01:22;28.42;7.88;ônibus;16.64;pesado;ensolarado;5
+375;05:35;06:00;25.73;12.81;a pé;29.86;leve;nublado;2
+376;05:40;05:59;19.88;6.47;ônibus;19.51;moderado;chuvoso;4
+377;12:00;12:13;13.45;3.50;carro;15.63;pesado;ensolarado;5
+378;05:23;05:40;17.10;4.92;bicicleta;17.27;pesado;nublado;5
+379;20:20;20:37;17.05;5.87;carro;20.66;moderado;nublado;4
+380;19:11;19:38;27.40;12.01;bicicleta;26.30;pesado;chuvoso;1
+381;21:08;21:22;14.97;6.36;carro;25.50;leve;nublado;2
+382;16:24;16:27;3.03;0.79;a pé;15.67;moderado;ensolarado;4
+383;20:34;21:03;29.46;10.81;ônibus;22.02;pesado;ensolarado;4
+384;09:08;09:56;48.49;23.93;carro;29.61;moderado;ensolarado;4
+385;04:12;04:53;41.27;12.40;a pé;18.03;moderado;chuvoso;4
+386;13:45;14:12;27.31;12.58;carro;27.64;pesado;ensolarado;2
+387;09:02;09:20;18.93;4.74;ônibus;15.02;moderado;chuvoso;4
+388;17:32;18:27;55.73;26.12;bicicleta;28.11;pesado;ensolarado;4
+389;17:13;17:43;30.59;8.74;ônibus;17.14;moderado;ensolarado;4
+390;08:22;08:53;31.98;13.27;carro;24.89;leve;ensolarado;5
+391;22:22;22:50;28.56;11.99;a pé;25.20;leve;chuvoso;2
+392;06:52;07:21;29.67;9.48;bicicleta;19.17;pesado;nublado;5
+393;17:10;17:34;24.57;11.53;bicicleta;28.15;pesado;nublado;5
+394;21:52;22:19;27.45;9.00;a pé;19.68;leve;nublado;2
+395;22:55;23:40;45.04;15.63;bicicleta;20.82;leve;chuvoso;4
+396;15:09;15:51;42.46;18.38;a pé;25.97;moderado;nublado;1
+397;20:50;20:59;9.27;3.92;bicicleta;25.38;pesado;nublado;4
+398;15:20;15:35;15.92;4.84;carro;18.25;pesado;nublado;3
+399;02:50;03:12;22.22;7.89;a pé;21.30;leve;nublado;3
+400;10:53;11:32;39.36;19.16;ônibus;29.21;pesado;nublado;3
+401;21:48;;;;carro;;pesado;nublado;1
+402;03:59;04:41;42.72;17.48;carro;24.55;moderado;ensolarado;2
+403;20:19;20:56;37.22;18.25;bicicleta;29.42;leve;chuvoso;3
+404;08:05;08:23;18.71;8.47;ônibus;27.17;leve;nublado;3
+405;23:44;00:08;24.75;7.49;carro;18.15;pesado;ensolarado;1
+406;06:30;07:04;34.89;14.09;a pé;24.23;leve;ensolarado;3
+407;03:55;04:22;27.60;8.01;carro;17.42;leve;nublado;1
+408;23:51;00:17;26.25;7.07;bicicleta;16.17;leve;nublado;2
+409;20:43;21:09;26.39;7.91;carro;17.98;pesado;chuvoso;2
+410;14:22;15:03;41.59;17.26;ônibus;24.90;moderado;chuvoso;4
+411;06:05;06:40;35.93;17.73;carro;29.61;pesado;chuvoso;4
+412;11:27;11:53;26.90;12.39;bicicleta;27.64;pesado;ensolarado;2
+413;17:38;18:11;33.26;11.70;carro;21.11;pesado;nublado;2
+414;16:38;16:55;17.49;4.62;bicicleta;15.85;pesado;ensolarado;2
+415;15:24;15:48;24.77;9.83;carro;23.82;pesado;ensolarado;3
+416;10:08;10:48;40.49;14.67;a pé;21.74;moderado;chuvoso;2
+417;15:49;16:03;14.43;4.44;carro;18.47;moderado;ensolarado;1
+418;01:50;02:26;36.06;12.79;a pé;21.29;moderado;chuvoso;4
+419;02:40;02:49;9.18;3.55;bicicleta;23.18;leve;nublado;1
+420;16:58;17:44;46.96;12.05;bicicleta;15.40;moderado;chuvoso;1
+421;09:44;10:08;24.55;6.57;ônibus;16.06;leve;ensolarado;1
+422;13:07;13:40;33.99;11.43;bicicleta;20.17;pesado;chuvoso;2
+423;03:00;03:31;31.14;10.93;ônibus;21.05;moderado;nublado;5
+424;16:50;17:21;31.50;15.41;bicicleta;29.34;leve;chuvoso;3
+425;23:56;00:29;33.08;10.13;bicicleta;18.37;moderado;nublado;5
+426;02:16;02:28;12.90;5.13;carro;23.85;moderado;nublado;5
+427;11:03;11:34;31.71;7.99;bicicleta;15.12;leve;nublado;1
+428;18:43;19:11;28.16;9.23;carro;19.66;leve;ensolarado;2
+429;01:30;01:54;24.60;12.08;ônibus;29.46;leve;chuvoso;4
+430;07:20;07:42;22.22;5.80;bicicleta;15.67;moderado;ensolarado;5
+431;11:07;11:38;31.96;12.54;ônibus;23.55;leve;chuvoso;1
+432;12:04;12:24;20.22;6.50;bicicleta;19.30;moderado;ensolarado;5
+433;14:00;14:40;40.29;16.70;bicicleta;24.87;pesado;chuvoso;2
+434;14:23;14:57;34.73;17.17;ônibus;29.67;pesado;chuvoso;2
+435;04:00;04:32;32.56;84.68;bicicleta;110.16;pesado;chuvoso;1
+436;10:00;10:39;39.83;10.40;bicicleta;15.67;leve;ensolarado;5
+437;07:26;07:37;11.59;3.82;ônibus;19.75;pesado;nublado;1
+438;01:58;02:15;17.20;8.22;a pé;28.65;pesado;nublado;4
+439;23:05;23:40;35.18;16.24;a pé;27.71;leve;chuvoso;5
+440;01:27;01:49;22.74;7.09;bicicleta;18.71;moderado;nublado;4
+441;22:53;23:16;23.88;9.27;bicicleta;23.28;leve;ensolarado;2
+442;04:49;05:04;15.93;5.88;carro;22.13;leve;nublado;4
+443;10:26;10:46;20.24;6.46;ônibus;19.15;moderado;nublado;4
+444;08:54;09:34;40.54;13.73;bicicleta;20.32;pesado;chuvoso;5
+445;01:13;01:47;34.93;10.08;carro;17.32;pesado;ensolarado;3
+446;12:32;;;;bicicleta;;moderado;ensolarado;1
+447;12:54;13:25;31.85;13.11;ônibus;24.69;leve;nublado;1
+448;04:07;;;;ônibus;;leve;ensolarado;4
+449;11:43;12:07;24.24;8.10;bicicleta;20.05;leve;ensolarado;1
+450;06:57;07:28;31.22;9.78;carro;18.79;moderado;ensolarado;1
+451;14:03;14:44;41.49;18.75;a pé;27.11;moderado;ensolarado;4
+452;21:27;21:49;22.97;10.68;ônibus;27.90;moderado;nublado;4
+453;04:02;04:31;29.65;8.78;bicicleta;17.77;moderado;nublado;5
+454;15:03;15:50;47.71;16.62;a pé;20.91;leve;chuvoso;5
+455;07:40;08:17;37.08;10.30;carro;16.67;moderado;chuvoso;3
+456;15:34;15:58;24.38;7.19;bicicleta;17.70;moderado;nublado;2
+457;00:20;00:56;36.22;72.62;bicicleta;211.32;leve;nublado;5
+458;11:49;12:03;14.30;6.29;ônibus;26.39;leve;ensolarado;2
+459;08:34;09:03;29.26;12.34;carro;25.31;leve;chuvoso;4
+460;11:59;12:35;36.21;11.74;ônibus;19.46;leve;chuvoso;3
+461;23:44;00:17;33.80;9.36;bicicleta;16.61;pesado;chuvoso;2
+462;18:12;18:48;36.11;10.88;a pé;18.09;pesado;nublado;2
+463;15:02;15:40;38.34;15.34;ônibus;24.01;leve;chuvoso;4
+464;00:21;00:55;34.59;11.61;ônibus;20.14;moderado;chuvoso;2
+465;10:03;;;;ônibus;;leve;chuvoso;3
+466;02:23;02:57;34.30;14.53;carro;25.41;moderado;nublado;3
+467;04:10;04:42;32.08;10.23;a pé;19.13;pesado;nublado;2
+468;22:35;22:54;19.19;4.99;bicicleta;15.59;leve;chuvoso;5
+469;05:24;06:04;40.53;10.28;ônibus;15.22;leve;chuvoso;1
+470;22:36;23:05;29.60;7.95;carro;16.11;leve;chuvoso;3
+471;19:14;19:50;36.82;9.98;a pé;16.26;leve;nublado;1
+472;07:22;08:01;39.38;18.99;carro;28.93;pesado;chuvoso;3
+473;14:00;14:24;24.84;7.78;carro;18.79;moderado;nublado;1
+474;23:00;;;;a pé;;pesado;nublado;2
+475;13:31;13:56;25.66;11.91;a pé;27.86;leve;nublado;5
+476;20:48;21:14;26.91;7.93;carro;17.69;leve;nublado;1
+477;10:16;10:58;42.56;19.97;ônibus;28.16;moderado;ensolarado;1
+478;17:57;18:18;21.05;8.00;a pé;22.81;pesado;ensolarado;4
+479;20:10;20:54;44.47;16.86;carro;22.75;leve;nublado;2
+480;06:26;06:57;31.97;9.83;bicicleta;18.45;pesado;nublado;3
+481;07:06;;;;a pé;;leve;ensolarado;3
+482;00:27;00:59;32.67;13.25;a pé;24.33;leve;ensolarado;1
+483;06:10;06:48;38.90;18.98;a pé;29.29;leve;nublado;4
+484;15:31;16:01;30.82;7.95;a pé;15.47;leve;nublado;4
+485;11:11;11:51;40.65;11.30;a pé;16.68;moderado;ensolarado;3
+486;18:03;18:27;24.83;8.39;carro;20.27;leve;chuvoso;3
+487;17:26;18:10;44.09;13.55;carro;18.43;moderado;chuvoso;4
+488;17:43;18:08;25.54;8.99;ônibus;21.11;moderado;nublado;1
+489;12:57;13:41;44.53;79.37;ônibus;95.86;leve;nublado;2
+490;05:13;05:29;16.56;6.39;a pé;23.14;leve;chuvoso;4
+491;06:52;07:12;20.81;8.44;bicicleta;24.32;moderado;chuvoso;1
+492;02:24;02:53;29.65;10.71;bicicleta;21.67;pesado;nublado;1
+493;22:39;23:11;32.34;9.63;carro;17.86;moderado;ensolarado;2
+494;18:37;19:16;39.84;10.24;carro;15.43;leve;chuvoso;1
+495;09:55;10:22;27.86;9.49;a pé;20.44;moderado;nublado;4
+496;18:38;18:56;18.77;4.71;a pé;15.07;leve;chuvoso;5
+497;21:44;22:17;33.82;13.73;bicicleta;24.36;pesado;ensolarado;1
+498;23:30;00:01;31.66;9.85;carro;18.66;moderado;nublado;3
+499;08:53;09:27;34.92;11.54;carro;19.83;leve;ensolarado;3
+500;23:28;23:51;23.62;9.68;a pé;24.58;pesado;chuvoso;1
+501;06:28;06:52;24.69;10.41;a pé;25.29;pesado;nublado;1
+502;16:50;17:13;23.63;11.17;a pé;28.36;leve;chuvoso;5
+503;00:11;00:52;41.89;10.64;carro;15.24;leve;ensolarado;4
+504;01:58;02:42;44.21;13.03;bicicleta;17.69;moderado;chuvoso;4
+505;20:59;21:23;24.29;95.57;bicicleta;159.17;moderado;chuvoso;4
+506;05:55;06:27;32.03;10.05;bicicleta;18.83;leve;nublado;1
+507;09:01;09:15;14.84;4.70;ônibus;18.99;leve;chuvoso;2
+508;21:13;21:36;23.87;6.32;carro;15.88;pesado;ensolarado;4
+509;04:41;05:07;26.12;6.68;ônibus;15.34;moderado;chuvoso;3
+510;22:45;23:17;32.86;9.93;a pé;18.12;moderado;nublado;3
+511;06:29;07:02;33.34;10.75;a pé;19.34;pesado;ensolarado;1
+512;16:42;17:10;28.23;10.28;bicicleta;21.85;moderado;chuvoso;1
+513;15:04;15:26;22.02;8.74;bicicleta;23.81;moderado;nublado;3
+514;06:09;06:38;29.67;13.72;carro;27.75;pesado;nublado;3
+515;21:08;21:55;47.95;19.65;bicicleta;24.59;moderado;nublado;4
+516;12:47;;;;ônibus;;moderado;chuvoso;2
+517;21:34;21:58;24.82;6.70;bicicleta;16.21;pesado;nublado;2
+518;21:56;22:28;32.24;10.78;a pé;20.06;leve;chuvoso;3
+519;23:51;00:46;55.27;15.14;bicicleta;16.44;pesado;ensolarado;2
+520;11:14;11:38;24.69;9.16;bicicleta;22.26;moderado;nublado;5
+521;09:29;10:05;36.82;14.53;carro;23.68;moderado;ensolarado;5
+522;03:55;04:43;48.47;12.90;a pé;15.97;leve;ensolarado;2
+523;06:21;06:56;35.91;9.70;a pé;16.21;leve;nublado;2
+524;02:31;03:12;41.09;11.00;bicicleta;16.07;pesado;ensolarado;1
+525;14:17;14:55;38.20;11.25;ônibus;17.67;moderado;ensolarado;2
+526;19:27;20:02;35.07;10.44;a pé;17.86;moderado;ensolarado;1
+527;17:12;17:55;43.82;18.91;bicicleta;25.89;pesado;ensolarado;1
+528;21:00;21:36;36.49;9.70;bicicleta;15.95;moderado;ensolarado;1
+529;12:32;13:00;28.33;10.61;carro;22.47;moderado;nublado;4
+530;23:33;00:04;31.47;9.02;ônibus;17.21;moderado;nublado;3
+531;06:10;06:43;33.69;9.19;a pé;16.37;leve;ensolarado;2
+532;23:08;23:34;26.07;43.51;ônibus;128.07;leve;nublado;1
+533;12:56;13:27;31.91;9.78;carro;18.38;pesado;ensolarado;1
+534;20:53;;;;carro;;moderado;nublado;4
+535;03:35;04:05;30.46;12.09;ônibus;23.81;pesado;chuvoso;1
+536;09:26;10:02;36.45;10.24;bicicleta;16.86;pesado;chuvoso;2
+537;13:53;14:44;51.63;23.32;carro;27.10;moderado;ensolarado;1
+538;15:12;15:44;32.49;8.28;ônibus;15.28;moderado;chuvoso;4
+539;09:10;;;;a pé;;leve;chuvoso;4
+540;10:15;;;;carro;;leve;chuvoso;4
+541;04:05;04:50;45.77;17.06;carro;22.36;moderado;chuvoso;2
+542;14:18;14:54;36.08;16.36;ônibus;27.21;leve;nublado;3
+543;21:20;21:51;31.87;8.22;carro;15.49;leve;ensolarado;2
+544;10:22;10:47;25.54;9.81;bicicleta;23.06;pesado;ensolarado;3
+545;10:11;10:42;31.94;9.35;a pé;17.56;moderado;nublado;4
+546;13:41;14:12;31.33;11.64;ônibus;22.29;pesado;chuvoso;1
+547;05:06;05:28;23.00;7.09;a pé;18.51;leve;chuvoso;4
+548;11:39;;;;ônibus;;moderado;nublado;1
+549;13:28;;;;bicicleta;;pesado;nublado;1
+550;22:55;23:19;24.41;6.94;ônibus;17.06;pesado;nublado;5
+551;16:44;17:17;33.77;16.48;ônibus;29.28;moderado;nublado;4
+552;04:53;05:38;45.66;13.56;carro;17.82;leve;chuvoso;2
+553;16:54;17:23;29.34;10.15;ônibus;20.75;leve;nublado;3
+554;07:21;07:36;15.52;6.67;ônibus;25.78;pesado;chuvoso;4
+555;12:52;13:00;8.01;2.23;a pé;16.71;leve;nublado;4
+556;10:07;10:26;19.79;9.14;carro;27.72;leve;nublado;4
+557;01:35;02:12;37.08;11.03;bicicleta;17.85;pesado;chuvoso;2
+558;20:42;20:59;17.20;4.41;carro;15.38;leve;nublado;3
+559;17:49;18:27;38.72;16.82;bicicleta;26.06;pesado;nublado;1
+560;03:48;04:24;36.50;105.32;bicicleta;147.66;pesado;nublado;5
+561;16:23;16:52;29.01;112.92;ônibus;165.91;moderado;ensolarado;4
+562;03:16;03:43;27.59;11.37;a pé;24.73;leve;nublado;2
+563;22:21;22:54;33.52;16.25;carro;29.09;moderado;nublado;5
+564;16:08;16:25;17.48;34.54;carro;158.35;pesado;nublado;5
+565;15:59;16:43;44.44;18.74;ônibus;25.31;pesado;chuvoso;2
+566;23:52;00:25;33.43;9.44;bicicleta;16.94;pesado;nublado;4
+567;19:58;20:32;34.57;9.37;a pé;16.26;moderado;nublado;4
+568;04:08;04:44;36.43;16.10;bicicleta;26.52;pesado;chuvoso;3
+569;22:47;23:30;43.29;20.96;ônibus;29.05;leve;chuvoso;3
+570;21:22;21:53;31.97;8.90;ônibus;16.70;pesado;chuvoso;3
+571;22:07;22:44;37.09;12.52;a pé;20.25;pesado;chuvoso;5
+572;09:56;10:19;23.24;9.68;carro;24.99;leve;nublado;2
+573;01:42;02:30;48.01;16.09;ônibus;20.11;moderado;chuvoso;3
+574;04:53;05:24;31.28;12.33;ônibus;23.64;pesado;ensolarado;3
+575;14:06;14:29;23.19;6.45;ônibus;16.69;pesado;chuvoso;5
+576;12:15;12:40;25.54;12.62;bicicleta;29.66;pesado;chuvoso;1
+577;12:24;12:35;11.10;5.18;bicicleta;27.97;pesado;ensolarado;1
+578;23:16;23:41;25.48;7.96;a pé;18.75;leve;chuvoso;3
+579;18:34;18:39;5.76;2.23;ônibus;23.23;moderado;nublado;2
+580;21:04;21:41;37.86;10.64;carro;16.86;moderado;ensolarado;4
+581;08:35;09:09;34.25;16.47;bicicleta;28.86;leve;nublado;4
+582;22:59;23:19;20.33;8.18;bicicleta;24.15;pesado;ensolarado;5
+583;21:19;21:48;29.52;7.43;bicicleta;15.10;leve;chuvoso;3
+584;16:14;16:43;29.96;9.26;ônibus;18.54;moderado;chuvoso;5
+585;12:05;12:23;18.42;5.41;bicicleta;17.62;moderado;nublado;3
+586;06:48;07:15;27.79;10.48;carro;22.62;leve;chuvoso;3
+587;14:15;14:45;30.27;9.97;ônibus;19.77;leve;chuvoso;3
+588;12:58;13:25;27.53;13.32;bicicleta;29.04;pesado;chuvoso;3
+589;00:58;01:21;23.18;10.75;a pé;27.81;moderado;ensolarado;3
+590;20:12;20:31;19.98;6.37;carro;19.14;leve;chuvoso;5
+591;00:40;01:07;27.19;8.05;ônibus;17.76;pesado;nublado;1
+592;06:34;06:58;24.29;10.40;a pé;25.70;pesado;ensolarado;2
+593;00:29;01:04;35.73;132.32;carro;231.74;leve;ensolarado;3
+594;17:04;17:34;30.60;8.95;bicicleta;17.55;moderado;nublado;4
+595;20:25;20:48;23.53;53.89;carro;144.45;pesado;ensolarado;5
+596;02:48;03:28;40.50;177.60;carro;214.92;moderado;chuvoso;1
+597;09:50;10:14;24.65;6.78;bicicleta;16.51;moderado;nublado;4
+598;21:01;21:51;50.75;16.62;ônibus;19.65;pesado;nublado;5
+599;09:40;10:03;23.11;6.67;bicicleta;17.33;leve;chuvoso;5
+600;04:07;;;;a pé;;pesado;chuvoso;1
+601;09:13;09:36;23.49;6.27;bicicleta;16.03;leve;nublado;5
+602;04:10;04:35;25.16;10.32;bicicleta;24.61;leve;ensolarado;2
+603;21:51;22:26;35.23;10.62;a pé;18.09;pesado;chuvoso;1
+604;09:42;10:06;24.26;8.10;a pé;20.02;moderado;nublado;2
+605;21:41;22:28;47.28;19.24;carro;24.42;leve;nublado;4
+606;14:21;14:55;34.36;8.61;ônibus;15.03;pesado;chuvoso;3
+607;10:27;10:57;30.38;12.66;ônibus;25.01;pesado;chuvoso;4
+608;08:53;09:24;31.20;9.28;bicicleta;17.85;moderado;nublado;4
+609;11:49;12:16;27.43;7.34;ônibus;16.06;pesado;chuvoso;1
+610;08:54;09:07;13.31;3.85;ônibus;17.37;moderado;chuvoso;1
+611;23:04;23:29;25.17;9.35;carro;22.29;pesado;chuvoso;4
+612;18:13;18:58;45.74;16.68;a pé;21.88;pesado;ensolarado;3
+613;12:14;12:46;32.24;11.21;bicicleta;20.85;leve;nublado;5
+614;16:05;16:45;40.47;11.73;ônibus;17.39;pesado;chuvoso;2
+615;16:08;16:48;40.79;10.73;ônibus;15.78;pesado;chuvoso;4
+616;11:02;11:31;29.61;10.42;carro;21.10;moderado;nublado;2
+617;01:42;02:18;36.52;9.55;bicicleta;15.69;moderado;nublado;4
+618;01:02;01:16;14.24;5.88;bicicleta;24.78;pesado;nublado;5
+619;17:36;18:20;44.77;12.91;bicicleta;17.31;pesado;chuvoso;1
+620;16:16;16:59;43.80;19.35;a pé;26.51;moderado;nublado;4
+621;15:56;16:30;34.94;14.81;ônibus;25.43;moderado;ensolarado;2
+622;02:32;03:04;32.61;13.17;ônibus;24.24;leve;nublado;5
+623;22:52;23:21;29.74;11.92;bicicleta;24.05;pesado;ensolarado;4
+624;21:30;22:11;41.73;11.15;a pé;16.04;leve;ensolarado;1
+625;04:36;05:13;37.72;13.87;carro;22.07;pesado;ensolarado;1
+626;05:16;05:17;1.51;0.48;a pé;18.83;pesado;chuvoso;1
+627;23:46;00:12;26.38;6.70;carro;15.23;leve;nublado;5
+628;15:55;16:13;18.80;7.47;a pé;23.84;pesado;ensolarado;5
+629;05:39;05:56;17.05;4.81;bicicleta;16.92;moderado;chuvoso;5
+630;02:14;02:55;41.61;18.40;carro;26.53;leve;chuvoso;5
+631;21:26;21:55;29.53;11.95;ônibus;24.27;moderado;chuvoso;5
+632;01:56;02:30;34.77;16.19;carro;27.95;leve;nublado;2
+633;19:34;20:04;30.77;11.51;a pé;22.44;pesado;nublado;3
+634;01:44;02:01;17.17;4.69;a pé;16.40;moderado;nublado;5
+635;23:58;00:12;14.43;4.46;carro;18.55;moderado;ensolarado;3
+636;15:49;16:14;25.72;7.53;bicicleta;17.58;pesado;chuvoso;4
+637;08:12;;;;carro;;pesado;chuvoso;1
+638;16:00;16:26;26.51;12.79;bicicleta;28.94;moderado;nublado;1
+639;04:27;04:53;26.51;7.63;a pé;17.28;pesado;nublado;5
+640;08:43;09:09;26.78;7.26;a pé;16.27;leve;nublado;5
+641;17:30;18:20;50.77;14.06;bicicleta;16.61;pesado;nublado;2
+642;21:07;21:47;40.30;16.71;ônibus;24.88;leve;ensolarado;5
+643;12:50;13:22;32.39;14.56;carro;26.98;leve;nublado;1
+644;02:52;03:21;29.28;9.56;a pé;19.59;leve;ensolarado;3
+645;07:23;07:52;29.63;39.75;a pé;86.91;moderado;chuvoso;5
+646;09:45;10:22;37.33;14.18;ônibus;22.79;pesado;nublado;4
+647;00:12;00:41;29.19;9.68;bicicleta;19.90;leve;ensolarado;5
+648;16:33;17:12;39.16;13.46;carro;20.62;moderado;ensolarado;1
+649;05:05;05:38;33.46;11.04;bicicleta;19.79;pesado;nublado;4
+650;18:12;19:02;50.88;22.32;carro;26.32;leve;chuvoso;3
+651;23:53;00:21;28.60;13.89;bicicleta;29.13;moderado;ensolarado;5
+652;06:29;07:10;41.08;17.09;bicicleta;24.96;leve;nublado;5
+653;03:35;03:54;19.60;5.86;carro;17.93;pesado;nublado;5
+654;18:16;18:39;23.76;6.36;a pé;16.06;leve;nublado;4
+655;21:29;22:18;49.14;20.87;a pé;25.49;leve;nublado;1
+656;12:40;13:18;38.70;9.95;ônibus;15.43;moderado;nublado;3
+657;16:34;;;;bicicleta;;leve;nublado;1
+658;12:43;13:17;34.96;10.38;ônibus;17.82;moderado;nublado;3
+659;06:57;07:51;54.03;14.46;ônibus;16.05;moderado;chuvoso;2
+660;07:47;08:16;29.42;9.37;ônibus;19.10;leve;ensolarado;5
+661;11:09;11:50;41.06;16.89;carro;24.68;pesado;chuvoso;4
+662;19:00;19:41;41.87;12.62;carro;18.08;moderado;nublado;5
+663;10:31;11:17;46.33;20.94;bicicleta;27.11;moderado;ensolarado;5
+664;08:25;08:43;18.54;5.59;carro;18.10;pesado;nublado;4
+665;17:02;17:31;29.36;7.85;ônibus;16.04;moderado;ensolarado;5
+666;14:20;14:53;33.29;73.16;ônibus;146.30;moderado;chuvoso;1
+667;10:23;10:50;27.56;10.38;bicicleta;22.61;leve;nublado;4
+668;19:21;20:00;39.64;11.89;ônibus;17.99;moderado;chuvoso;3
+669;11:54;12:29;35.97;10.00;ônibus;16.69;pesado;chuvoso;2
+670;03:46;04:23;37.01;12.89;a pé;20.90;moderado;ensolarado;2
+671;23:09;23:37;28.50;46.40;a pé;128.64;moderado;ensolarado;5
+672;17:46;18:17;31.26;11.44;bicicleta;21.95;pesado;chuvoso;1
+673;12:06;12:51;45.95;16.54;bicicleta;21.61;moderado;chuvoso;1
+674;14:47;15:08;21.53;7.43;bicicleta;20.71;moderado;ensolarado;4
+675;03:22;03:45;23.61;9.62;ônibus;24.44;pesado;chuvoso;5
+676;05:49;06:05;16.77;7.81;a pé;27.95;pesado;nublado;1
+677;12:39;13:25;46.42;14.33;ônibus;18.52;leve;chuvoso;3
+678;13:40;14:20;40.10;13.70;carro;20.50;leve;ensolarado;3
+679;07:20;07:59;39.82;13.11;bicicleta;19.75;pesado;chuvoso;4
+680;08:56;09:22;26.75;9.04;bicicleta;20.28;pesado;chuvoso;5
+681;14:26;14:42;16.10;5.10;ônibus;18.99;pesado;ensolarado;3
+682;23:44;23:57;13.55;4.42;a pé;19.56;leve;ensolarado;1
+683;15:35;16:18;43.84;12.09;carro;16.55;leve;nublado;5
+684;04:05;04:40;35.64;10.37;bicicleta;17.46;leve;ensolarado;3
+685;14:40;15:17;37.59;15.11;ônibus;24.13;leve;ensolarado;3
+686;10:55;11:27;32.81;8.51;bicicleta;15.57;pesado;nublado;2
+687;22:34;22:56;22.46;7.56;a pé;20.19;pesado;chuvoso;5
+688;09:58;10:25;27.19;10.82;carro;23.87;moderado;nublado;3
+689;13:16;13:36;20.11;42.93;ônibus;109.09;moderado;nublado;4
+690;17:00;17:18;18.96;5.89;a pé;18.63;moderado;ensolarado;4
+691;09:38;09:58;20.10;39.89;bicicleta;125.34;leve;nublado;5
+692;13:25;14:04;39.41;11.72;a pé;17.85;moderado;ensolarado;3
+693;02:27;02:58;31.05;9.09;bicicleta;17.55;moderado;chuvoso;5
+694;08:26;08:42;16.66;7.53;ônibus;27.10;moderado;ensolarado;4
+695;19:28;19:42;14.07;3.58;ônibus;15.28;moderado;ensolarado;2
+696;01:34;;;;carro;;moderado;nublado;2
+697;22:28;23:02;34.40;11.60;ônibus;20.22;leve;nublado;2
+698;10:26;10:58;32.24;15.45;bicicleta;28.75;moderado;chuvoso;1
+699;10:05;10:48;43.64;13.36;carro;18.37;moderado;nublado;1
+700;17:30;18:01;31.22;8.58;bicicleta;16.49;moderado;ensolarado;1
+701;22:15;22:50;35.43;9.40;ônibus;15.92;pesado;ensolarado;2
+702;14:47;15:09;22.98;7.13;ônibus;18.62;moderado;nublado;3
+703;10:10;10:33;23.37;76.18;carro;201.98;moderado;nublado;3
+704;06:23;06:40;17.56;4.93;ônibus;16.85;leve;ensolarado;4
+705;10:00;10:23;23.07;9.05;carro;23.53;moderado;ensolarado;1
+706;01:37;02:04;27.05;8.11;ônibus;17.99;moderado;ensolarado;2
+707;05:31;06:13;42.48;19.39;carro;27.38;leve;nublado;2
+708;22:34;22:55;21.65;6.82;ônibus;18.91;moderado;chuvoso;3
+709;14:46;15:37;51.45;22.03;bicicleta;25.68;pesado;ensolarado;3
+710;01:31;02:07;36.34;14.93;a pé;24.66;leve;chuvoso;2
+711;17:22;17:56;34.14;15.58;ônibus;27.38;leve;chuvoso;2
+712;14:18;14:48;30.44;9.47;a pé;18.67;leve;chuvoso;5
+713;12:46;13:14;28.53;56.81;bicicleta;134.89;pesado;ensolarado;3
+714;23:04;23:33;29.12;7.32;a pé;15.09;leve;chuvoso;4
+715;17:09;18:04;55.80;24.55;bicicleta;26.40;leve;ensolarado;5
+716;21:04;;;;ônibus;;leve;ensolarado;2
+717;03:31;03:52;21.96;66.03;a pé;177.75;pesado;nublado;5
+718;19:44;20:30;46.39;65.72;ônibus;83.17;pesado;chuvoso;1
+719;00:59;01:34;35.69;14.01;carro;23.54;moderado;chuvoso;1
+720;11:35;12:21;46.28;21.44;bicicleta;27.79;pesado;ensolarado;5
+721;08:33;;;;carro;;moderado;ensolarado;2
+722;16:06;16:30;24.18;9.86;a pé;24.46;leve;ensolarado;5
+723;21:15;21:34;19.85;7.33;a pé;22.14;pesado;ensolarado;5
+724;11:43;12:13;30.34;14.21;carro;28.10;leve;ensolarado;5
+725;12:32;12:54;22.30;6.19;a pé;16.66;moderado;nublado;5
+726;10:54;11:26;32.34;8.60;a pé;15.96;pesado;nublado;5
+727;07:36;07:50;14.44;4.37;bicicleta;18.17;moderado;nublado;4
+728;12:00;12:10;10.06;3.77;carro;22.51;pesado;ensolarado;3
+729;00:19;00:52;33.74;10.11;bicicleta;17.97;leve;chuvoso;3
+730;17:32;18:18;46.73;15.95;ônibus;20.47;leve;ensolarado;4
+731;11:09;11:43;34.19;16.13;ônibus;28.30;leve;nublado;3
+732;02:36;03:11;35.58;15.14;carro;25.53;pesado;nublado;4
+733;05:31;06:01;30.76;9.10;carro;17.75;pesado;chuvoso;3
+734;01:46;02:17;31.69;14.45;carro;27.36;moderado;nublado;4
+735;13:59;14:14;15.86;5.47;ônibus;20.68;pesado;chuvoso;5
+736;00:40;01:02;22.64;6.80;bicicleta;18.02;pesado;ensolarado;3
+737;17:36;18:18;42.36;11.80;ônibus;16.71;leve;ensolarado;4
+738;14:48;15:07;19.08;4.79;ônibus;15.06;moderado;nublado;4
+739;04:08;04:34;26.84;6.96;carro;15.57;pesado;nublado;3
+740;02:25;03:07;42.13;13.85;ônibus;19.72;leve;nublado;5
+741;06:31;07:02;31.42;9.68;ônibus;18.48;leve;ensolarado;3
+742;13:20;13:51;31.92;14.15;carro;26.60;pesado;nublado;4
+743;11:22;11:48;26.91;7.37;carro;16.43;moderado;ensolarado;3
+744;19:52;20:29;37.08;17.89;ônibus;28.95;moderado;ensolarado;2
+745;06:43;07:22;39.57;15.18;carro;23.02;leve;chuvoso;1
+746;07:39;08:01;22.14;10.18;bicicleta;27.58;leve;nublado;1
+747;09:28;09:44;16.69;4.31;ônibus;15.49;leve;chuvoso;5
+748;08:35;08:46;11.64;4.17;ônibus;21.47;pesado;chuvoso;1
+749;12:37;13:12;35.08;12.12;bicicleta;20.73;leve;ensolarado;3
+750;06:50;07:23;33.89;8.83;a pé;15.63;pesado;ensolarado;1
+751;12:42;13:36;54.93;18.35;bicicleta;20.04;leve;ensolarado;3
+752;20:24;20:54;30.82;11.16;carro;21.73;moderado;nublado;5
+753;17:05;17:34;29.01;7.72;a pé;15.97;pesado;chuvoso;1
+754;01:15;01:47;32.67;9.13;a pé;16.76;moderado;chuvoso;2
+755;00:22;00:55;33.22;12.73;bicicleta;22.99;leve;chuvoso;3
+756;01:40;02:08;28.25;12.04;carro;25.56;pesado;nublado;2
+757;04:21;04:43;22.44;6.62;carro;17.70;pesado;nublado;5
+758;21:39;22:09;30.28;9.23;a pé;18.28;leve;chuvoso;2
+759;13:19;13:48;29.91;8.21;ônibus;16.46;leve;chuvoso;2
+760;18:34;19:03;29.75;9.26;ônibus;18.68;moderado;chuvoso;5
+761;04:27;05:05;38.18;10.82;ônibus;17.00;pesado;chuvoso;2
+762;10:04;10:34;30.10;10.76;carro;21.45;leve;nublado;2
+763;23:01;23:17;16.88;7.36;a pé;26.17;moderado;nublado;4
+764;23:59;00:22;23.90;11.65;bicicleta;29.25;leve;ensolarado;1
+765;04:11;;;;bicicleta;;pesado;chuvoso;5
+766;07:38;08:06;28.13;12.39;bicicleta;26.43;leve;chuvoso;4
+767;04:32;05:02;30.57;7.77;bicicleta;15.26;leve;nublado;4
+768;15:08;15:43;35.30;12.32;a pé;20.94;leve;nublado;4
+769;07:47;08:17;30.64;10.64;ônibus;20.84;leve;ensolarado;4
+770;19:31;19:41;10.25;4.63;ônibus;27.13;moderado;nublado;1
+771;19:47;20:04;17.90;5.53;a pé;18.52;pesado;chuvoso;5
+772;19:34;20:09;36.00;10.91;carro;18.18;pesado;ensolarado;4
+773;14:52;15:19;27.87;13.17;ônibus;28.35;pesado;chuvoso;4
+774;23:02;23:46;44.91;11.26;carro;15.04;leve;nublado;4
+775;12:56;13:27;31.49;7.94;a pé;15.12;leve;nublado;3
+776;19:58;20:24;26.63;10.74;ônibus;24.21;moderado;chuvoso;4
+777;02:46;03:09;23.87;7.05;ônibus;17.73;moderado;nublado;3
+778;14:01;14:27;26.98;12.70;ônibus;28.24;moderado;ensolarado;3
+779;10:44;11:15;31.61;8.71;ônibus;16.54;pesado;chuvoso;1
+780;02:07;02:37;30.03;9.30;carro;18.57;pesado;chuvoso;4
+781;23:50;00:29;39.50;12.93;ônibus;19.65;moderado;chuvoso;4
+782;01:49;02:04;15.15;5.31;ônibus;21.04;leve;ensolarado;2
+783;22:03;22:19;16.33;5.97;a pé;21.93;moderado;chuvoso;2
+784;03:57;04:24;27.75;9.81;bicicleta;21.21;leve;nublado;4
+785;15:34;16:09;35.41;10.01;a pé;16.96;leve;ensolarado;5
+786;21:30;22:07;37.59;18.59;carro;29.67;leve;chuvoso;3
+787;19:40;20:04;24.23;11.89;carro;29.44;leve;ensolarado;1
+788;20:22;;;;carro;;pesado;chuvoso;5
+789;09:21;09:25;4.09;14.29;a pé;135.39;leve;ensolarado;3
+790;19:42;19:57;15.21;7.51;ônibus;29.64;moderado;chuvoso;5
+791;11:59;;;;bicicleta;;moderado;nublado;4
+792;02:48;03:19;31.83;12.82;bicicleta;24.17;moderado;ensolarado;1
+793;22:55;23:24;29.85;13.45;ônibus;27.03;pesado;ensolarado;5
+794;01:06;01:41;35.79;11.56;carro;19.38;moderado;chuvoso;5
+795;22:18;22:59;41.97;19.11;bicicleta;27.32;pesado;chuvoso;5
+796;11:59;12:27;28.41;9.55;a pé;20.16;moderado;ensolarado;5
+797;07:45;08:10;25.57;7.36;carro;17.27;leve;nublado;1
+798;23:54;00:15;21.15;7.17;a pé;20.32;moderado;ensolarado;3
+799;11:35;11:51;16.28;5.58;ônibus;20.56;pesado;nublado;3
+800;02:19;02:32;13.86;3.88;carro;16.81;leve;chuvoso;3
+801;10:25;10:48;23.31;6.90;carro;17.77;leve;ensolarado;3
+802;10:59;11:39;40.40;14.05;carro;20.87;pesado;ensolarado;4
+803;04:40;05:16;36.78;17.71;bicicleta;28.89;moderado;nublado;1
+804;16:19;16:44;25.12;6.60;carro;15.77;leve;chuvoso;3
+805;11:04;11:55;51.57;15.54;carro;18.08;moderado;nublado;5
+806;05:36;05:59;23.94;6.32;carro;15.83;moderado;chuvoso;3
+807;22:02;22:45;43.02;20.16;ônibus;28.13;moderado;nublado;3
+808;06:33;07:18;45.62;15.02;carro;19.76;leve;ensolarado;4
+809;16:01;16:35;34.60;11.44;ônibus;19.84;leve;nublado;4
+810;23:55;00:18;23.22;6.91;ônibus;17.85;leve;chuvoso;2
+811;06:46;;;;a pé;;pesado;chuvoso;1
+812;00:19;00:45;26.35;12.30;carro;28.00;moderado;nublado;1
+813;03:33;04:04;31.85;15.73;carro;29.64;pesado;nublado;2
+814;10:12;10:28;16.53;6.12;bicicleta;22.23;moderado;chuvoso;1
+815;08:09;08:29;20.28;5.71;carro;16.90;leve;chuvoso;3
+816;17:20;17:39;19.53;8.32;bicicleta;25.55;pesado;ensolarado;2
+817;02:19;02:54;35.37;16.10;a pé;27.31;leve;ensolarado;1
+818;15:57;16:38;41.86;16.54;carro;23.71;leve;nublado;4
+819;05:45;06:22;37.19;18.21;a pé;29.38;pesado;nublado;3
+820;10:52;11:31;39.96;12.30;carro;18.47;moderado;chuvoso;2
+821;02:52;03:14;22.43;8.12;carro;21.71;moderado;nublado;4
+822;15:14;15:40;26.77;8.29;bicicleta;18.58;moderado;nublado;2
+823;22:58;23:25;27.49;7.75;bicicleta;16.90;moderado;nublado;1
+824;02:30;03:04;34.56;16.58;ônibus;28.79;moderado;nublado;5
+825;18:08;18:59;51.65;13.12;carro;15.24;moderado;chuvoso;1
+826;09:34;09:57;23.56;5.95;ônibus;15.15;pesado;ensolarado;5
+827;05:30;06:09;39.28;12.26;a pé;18.73;moderado;chuvoso;3
+828;17:44;18:29;45.28;12.50;carro;16.56;pesado;chuvoso;5
+829;15:07;15:42;35.08;10.59;carro;18.11;moderado;ensolarado;3
+830;12:04;12:30;26.35;6.83;a pé;15.56;moderado;nublado;1
+831;02:13;02:34;21.61;8.82;carro;24.50;leve;chuvoso;2
+832;14:34;14:53;19.55;6.79;a pé;20.84;leve;ensolarado;3
+833;09:36;09:46;10.34;3.20;a pé;18.60;pesado;nublado;1
+834;18:00;18:27;27.79;7.36;ônibus;15.90;moderado;ensolarado;3
+835;17:03;;;;bicicleta;;leve;nublado;1
+836;07:27;07:54;27.23;8.27;bicicleta;18.23;pesado;nublado;4
+837;12:27;13:05;38.60;10.37;a pé;16.12;leve;ensolarado;5
+838;12:53;13:17;24.17;6.54;ônibus;16.25;moderado;chuvoso;2
+839;04:00;04:28;28.33;58.94;a pé;157.43;pesado;nublado;2
+840;02:08;02:40;32.83;9.50;a pé;17.36;pesado;chuvoso;4
+841;19:11;19:47;36.63;15.55;a pé;25.48;moderado;nublado;2
+842;05:27;06:08;41.73;13.51;ônibus;19.42;pesado;chuvoso;3
+843;13:59;14:32;34.00;9.35;carro;16.50;pesado;nublado;3
+844;03:37;04:00;23.49;9.68;ônibus;24.72;pesado;chuvoso;5
+845;08:29;09:11;42.38;12.23;carro;17.31;leve;nublado;1
+846;21:40;22:10;30.21;9.80;carro;19.45;moderado;chuvoso;1
+847;15:29;16:01;32.41;12.49;bicicleta;23.12;moderado;nublado;3
+848;09:10;;;;bicicleta;;pesado;chuvoso;3
+849;01:40;02:36;56.02;17.90;carro;19.17;pesado;nublado;5
+850;00:18;00:55;37.53;11.47;carro;18.33;moderado;nublado;2
+851;19:17;19:50;33.81;9.60;carro;17.03;pesado;ensolarado;5
+852;23:09;23:37;28.62;14.18;ônibus;29.72;moderado;chuvoso;2
+853;15:11;15:28;17.76;7.12;bicicleta;24.06;leve;ensolarado;5
+854;04:53;05:20;27.91;7.75;a pé;16.67;leve;chuvoso;4
+855;23:40;00:01;21.49;8.93;bicicleta;24.92;leve;chuvoso;3
+856;03:03;03:49;46.70;14.45;bicicleta;18.56;moderado;chuvoso;5
+857;07:24;07:57;33.95;14.29;bicicleta;25.25;leve;chuvoso;4
+858;00:18;00:59;41.97;13.50;bicicleta;19.30;pesado;chuvoso;1
+859;03:58;04:21;23.90;11.89;a pé;29.84;pesado;chuvoso;3
+860;10:17;10:39;22.15;5.66;a pé;15.32;moderado;chuvoso;2
+861;23:43;00:19;36.48;13.33;bicicleta;21.93;pesado;chuvoso;2
+862;10:35;;;;carro;;leve;ensolarado;4
+863;03:33;03:54;21.13;8.09;ônibus;22.98;pesado;nublado;3
+864;06:02;;;;carro;;leve;chuvoso;2
+865;19:40;20:05;25.63;6.83;carro;15.99;pesado;ensolarado;4
+866;21:48;22:35;47.27;12.53;ônibus;15.91;leve;chuvoso;2
+867;08:18;08:44;26.00;8.16;a pé;18.83;moderado;nublado;3
+868;08:10;08:25;15.82;4.66;carro;17.69;moderado;nublado;3
+869;01:16;01:28;12.39;6.18;a pé;29.90;leve;nublado;2
+870;19:25;19:39;14.74;4.11;ônibus;16.72;pesado;nublado;2
+871;19:41;20:23;42.63;19.50;bicicleta;27.45;leve;ensolarado;1
+872;02:36;03:00;24.48;7.45;carro;18.27;moderado;ensolarado;1
+873;01:42;02:37;55.58;26.10;bicicleta;28.17;moderado;chuvoso;1
+874;16:45;17:30;45.42;14.55;a pé;19.22;moderado;chuvoso;1
+875;17:14;;;;a pé;;leve;chuvoso;5
+876;11:21;12:11;50.06;15.61;carro;18.71;moderado;chuvoso;3
+877;02:53;03:33;40.24;15.85;ônibus;23.63;leve;chuvoso;1
+878;12:42;13:17;35.93;9.84;carro;16.44;pesado;chuvoso;3
+879;15:05;15:26;21.82;10.31;ônibus;28.34;leve;ensolarado;2
+880;00:46;01:15;29.97;11.23;a pé;22.48;leve;chuvoso;3
+881;15:34;16:10;36.96;10.33;carro;16.77;leve;nublado;1
+882;10:50;11:29;39.55;13.03;ônibus;19.77;pesado;chuvoso;5
+883;14:43;15:01;18.58;7.00;ônibus;22.59;leve;ensolarado;2
+884;15:41;;;;carro;;leve;chuvoso;2
+885;00:11;00:39;28.06;9.78;carro;20.92;moderado;chuvoso;2
+886;18:04;18:33;29.17;9.13;a pé;18.77;pesado;chuvoso;2
+887;02:51;03:19;28.78;8.29;a pé;17.28;moderado;ensolarado;5
+888;17:08;17:27;19.76;6.04;ônibus;18.34;leve;chuvoso;2
+889;10:04;10:52;48.54;13.59;a pé;16.80;leve;chuvoso;3
+890;17:10;17:37;27.74;7.54;carro;16.31;leve;ensolarado;5
+891;12:49;13:09;20.41;7.37;carro;21.68;leve;ensolarado;2
+892;02:45;03:33;48.85;20.62;a pé;25.33;pesado;nublado;2
+893;06:09;06:54;45.43;16.68;a pé;22.02;leve;ensolarado;5
+894;22:02;22:33;31.41;12.09;carro;23.10;pesado;nublado;3
+895;13:00;13:12;12.32;3.17;carro;15.46;pesado;nublado;5
+896;16:14;16:39;25.34;6.77;ônibus;16.02;moderado;ensolarado;2
+897;03:50;04:04;14.05;3.81;a pé;16.29;moderado;ensolarado;2
+898;21:59;;;;bicicleta;;moderado;ensolarado;4
+899;08:21;08:56;35.14;12.05;a pé;20.57;leve;ensolarado;1
+900;17:11;17:35;24.67;47.15;carro;109.30;leve;ensolarado;4
+901;18:37;19:06;29.72;10.34;bicicleta;20.88;leve;ensolarado;3
+902;07:06;07:53;47.72;13.80;ônibus;17.35;moderado;ensolarado;1
+903;15:37;16:00;23.98;7.45;ônibus;18.63;leve;chuvoso;4
+904;05:24;05:58;34.69;15.28;ônibus;26.42;pesado;nublado;3
+905;06:21;06:58;37.66;9.62;carro;15.33;moderado;ensolarado;1
+906;14:29;15:11;42.27;19.77;ônibus;28.06;moderado;chuvoso;2
+907;20:39;21:07;29.00;11.49;ônibus;23.78;leve;nublado;5
+908;15:55;16:22;27.96;11.21;a pé;24.06;moderado;ensolarado;4
+909;23:55;00:22;27.74;10.90;ônibus;23.59;pesado;ensolarado;5
+910;00:26;00:59;33.67;69.37;a pé;151.48;pesado;chuvoso;1
+911;13:33;14:02;29.79;14.41;carro;29.02;moderado;nublado;2
+912;02:35;02:57;22.53;10.60;a pé;28.23;leve;ensolarado;3
+913;09:15;09:20;5.76;2.14;a pé;22.27;pesado;nublado;2
+914;22:29;23:07;38.84;10.22;carro;15.79;moderado;nublado;2
+915;22:25;22:55;30.67;7.92;a pé;15.49;pesado;chuvoso;1
+916;20:04;20:39;35.16;16.71;carro;28.51;moderado;nublado;3
+917;22:39;22:53;14.37;4.15;carro;17.33;pesado;nublado;1
+918;16:58;17:22;24.71;6.24;carro;15.14;moderado;nublado;4
+919;19:02;19:39;37.94;15.83;carro;25.04;pesado;chuvoso;2
+920;04:21;04:38;17.46;5.58;a pé;19.17;pesado;chuvoso;2
+921;23:48;00:22;34.66;10.78;bicicleta;18.65;pesado;chuvoso;4
+922;08:03;08:32;29.64;10.98;a pé;22.23;pesado;chuvoso;1
+923;15:45;16:07;22.65;6.12;bicicleta;16.21;moderado;chuvoso;3
+924;21:44;22:05;21.90;7.01;carro;19.22;leve;nublado;1
+925;02:25;02:44;19.84;5.33;carro;16.13;leve;ensolarado;3
+926;03:44;04:14;30.62;8.89;ônibus;17.41;pesado;chuvoso;1
+927;09:26;09:57;31.76;10.29;ônibus;19.44;moderado;nublado;4
+928;14:47;15:13;26.33;12.17;carro;27.73;leve;ensolarado;5
+929;20:21;20:40;19.28;8.27;bicicleta;25.73;moderado;chuvoso;5
+930;17:28;17:29;1.00;0.26;bicicleta;15.42;leve;nublado;2
+931;15:23;15:57;34.37;11.75;carro;20.52;leve;nublado;3
+932;14:10;14:49;39.04;13.83;bicicleta;21.25;leve;ensolarado;2
+933;05:15;05:51;36.19;17.03;ônibus;28.24;moderado;nublado;3
+934;05:13;06:03;50.57;151.01;bicicleta;144.72;moderado;ensolarado;3
+935;14:34;14:57;23.54;10.11;carro;25.76;leve;nublado;4
+936;04:29;04:51;22.01;8.27;bicicleta;22.55;pesado;chuvoso;3
+937;15:57;16:28;31.23;12.96;ônibus;24.90;pesado;chuvoso;4
+938;10:44;11:30;46.25;12.31;carro;15.98;leve;chuvoso;5
+939;03:19;;;;ônibus;;moderado;nublado;1
+940;10:03;10:30;27.08;6.82;ônibus;15.11;moderado;ensolarado;1
+941;02:34;02:48;14.37;4.05;carro;16.93;pesado;nublado;2
+942;15:20;15:58;38.83;12.62;carro;19.50;pesado;nublado;4
+943;04:45;05:14;29.22;9.75;bicicleta;20.03;leve;nublado;3
+944;11:19;11:51;32.99;9.05;carro;16.46;leve;chuvoso;4
+945;23:26;23:48;22.48;8.14;a pé;21.73;pesado;nublado;2
+946;18:38;19:09;31.13;12.09;a pé;23.31;pesado;nublado;1
+947;18:48;19:03;15.62;34.36;bicicleta;136.76;moderado;ensolarado;5
+948;14:45;15:10;25.53;6.66;ônibus;15.67;leve;nublado;3
+949;17:31;;;;bicicleta;;pesado;nublado;4
+950;17:47;18:29;42.81;80.84;carro;165.94;leve;nublado;3
+951;20:53;21:16;23.56;6.34;bicicleta;16.15;moderado;ensolarado;4
+952;22:41;23:21;40.30;10.57;bicicleta;15.74;moderado;ensolarado;5
+953;23:23;23:49;26.65;11.25;bicicleta;25.33;pesado;chuvoso;4
+954;22:52;23:17;25.96;6.85;carro;15.84;moderado;ensolarado;5
+955;01:09;01:29;20.45;7.10;ônibus;20.83;moderado;ensolarado;1
+956;08:23;08:57;34.24;10.60;bicicleta;18.57;leve;nublado;3
+957;16:40;17:10;30.24;7.69;ônibus;15.25;leve;chuvoso;2
+958;17:20;18:04;44.12;15.56;bicicleta;21.16;moderado;chuvoso;3
+959;03:34;03:53;19.38;5.15;carro;15.94;leve;chuvoso;3
+960;11:49;12:23;34.28;12.01;ônibus;21.02;leve;ensolarado;2
+961;16:14;16:55;41.87;12.18;carro;17.45;moderado;nublado;1
+962;03:52;04:47;55.90;79.80;bicicleta;137.40;moderado;chuvoso;3
+963;04:52;05:25;33.38;9.18;bicicleta;16.49;leve;chuvoso;3
+964;00:47;01:14;27.05;8.78;ônibus;19.47;pesado;ensolarado;3
+965;04:13;04:32;19.93;6.78;carro;20.39;leve;ensolarado;4
+966;13:02;13:43;41.40;82.91;carro;111.81;moderado;ensolarado;3
+967;01:04;01:46;42.97;94.44;carro;192.33;leve;chuvoso;2
+968;18:57;19:26;29.77;8.15;carro;16.43;leve;ensolarado;3
+969;18:22;18:49;27.61;12.09;ônibus;26.27;pesado;chuvoso;1
+970;03:52;04:18;26.33;70.83;ônibus;194.61;pesado;ensolarado;3
+971;05:57;06:39;42.17;143.56;carro;163.19;leve;chuvoso;4
+972;11:44;12:29;45.21;11.42;carro;15.16;leve;nublado;4
+973;13:13;13:33;20.96;6.25;bicicleta;17.90;leve;nublado;1
+974;16:08;16:41;33.24;12.54;bicicleta;22.64;pesado;chuvoso;1
+975;02:20;02:45;25.35;10.79;a pé;25.53;pesado;chuvoso;3
+976;21:53;22:25;32.01;8.63;bicicleta;16.17;moderado;ensolarado;1
+977;15:43;16:18;35.87;115.15;a pé;198.65;pesado;ensolarado;4
+978;14:33;14:58;25.25;8.35;ônibus;19.83;moderado;nublado;5
+979;03:47;04:06;20.00;9.68;carro;29.04;moderado;ensolarado;3
+980;06:38;07:01;23.22;8.90;ônibus;23.01;moderado;chuvoso;4
+981;08:48;09:23;35.14;9.39;bicicleta;16.03;pesado;nublado;3
+982;15:42;16:13;31.80;9.00;a pé;16.99;pesado;nublado;2
+983;14:06;14:42;36.35;14.42;ônibus;23.80;pesado;ensolarado;1
+984;03:47;04:28;41.10;10.77;carro;15.73;leve;nublado;5
+985;21:20;21:56;36.73;16.53;carro;27.00;leve;chuvoso;5
+986;15:50;16:38;49.00;16.93;a pé;20.73;moderado;chuvoso;3
+987;17:21;18:02;41.07;13.28;carro;19.40;leve;nublado;1
+988;12:28;12:56;28.80;10.43;a pé;21.73;leve;ensolarado;2
+989;17:42;18:06;24.65;7.08;ônibus;17.24;moderado;nublado;2
+990;09:45;10:14;29.09;7.58;a pé;15.64;pesado;chuvoso;5
+991;18:30;19:07;37.09;14.35;carro;23.22;moderado;nublado;4
+992;18:24;18:49;25.65;6.71;bicicleta;15.70;moderado;ensolarado;1
+993;18:02;18:39;37.39;18.36;carro;29.47;pesado;nublado;4
+994;03:27;04:03;36.15;9.21;bicicleta;15.28;leve;chuvoso;2
+995;07:15;07:35;20.65;5.64;carro;16.40;moderado;ensolarado;3
+996;05:01;05:41;40.86;149.28;a pé;130.23;pesado;chuvoso;4
+997;08:01;08:34;33.67;15.35;bicicleta;27.36;moderado;chuvoso;4
+998;10:36;11:24;48.38;19.48;ônibus;24.16;moderado;nublado;5
+999;21:21;21:50;29.81;11.45;a pé;23.05;leve;nublado;1
+1000;17:13;17:39;26.97;54.72;a pé;121.99;leve;chuvoso;1
